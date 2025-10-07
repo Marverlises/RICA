@@ -3,6 +3,7 @@
 This repository contains the official implementation of RICA, a novel approach for text-based person search that leverages both intra-modal and cross-modal alignment for improved retrieval performance.
 
 ## Overview
+![Framework](images/Framework.jpg)
 
 RICA (Re-Ranking with Intra-Modal and Cross-Modal Alignment) addresses the challenges in text-based person search by:
 
